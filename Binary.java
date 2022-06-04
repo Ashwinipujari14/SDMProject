@@ -6,6 +6,7 @@ public class Binary  {
 		{
 			root = null;
 		}
+	      // COMMENTED BY KUNDAN
 
 		public void print_H()
 		{
