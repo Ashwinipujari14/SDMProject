@@ -3,6 +3,7 @@
 public class Main {
 
 	public static void main(String[] args) {
+//changed by amol
 		// TODO Auto-generated method stub
 
 		Binary bst = new Binary();
